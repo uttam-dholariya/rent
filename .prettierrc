@@ -1,0 +1,5 @@
+{
+    "singleQuote": true,
+    "noMultipleEmptyLines": true,
+    "semi": true
+}

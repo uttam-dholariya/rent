@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rent",
+    "password": "Hello_123",
+    "database": "orcl",
+    "host": "localhost",
+    "dialect": "oracle"
+  },
+  "test": {
+    "username": "rent",
+    "password": "Hello_123",
+    "database": "orcl",
+    "host": "localhost:1521",
+    "dialect": "oracle"
+  },
+  "production": {
+    "username": "rent",
+    "password": "Hello_123",
+    "database": "orcl",
+    "host": "localhost:1521",
+    "dialect": "oracle"
+  }
+}
